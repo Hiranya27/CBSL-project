@@ -1,0 +1,26 @@
+.person{
+    margin: 3rem;
+}
+
+/* .person-service{
+    
+} */
+
+.person-data{
+    display: flex;
+}
+
+.person-data h4, button{
+    margin: 0.5rem 1.3rem;
+    font-weight: 550;
+}
+
+.person-data button{
+    background-color: rgb(162, 162, 194);
+}
+
+.add-person{
+    background-color: rgb(162, 162, 194);
+    margin-top: 1.5rem;
+    padding: 0.3rem 2rem;
+}

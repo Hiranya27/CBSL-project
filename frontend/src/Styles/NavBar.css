@@ -1,0 +1,34 @@
+.nav-bar{
+   padding: 2rem 0;
+   background-color: black;
+   
+}
+.list{
+   text-align: center;
+}
+
+.list ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+  
+}
+
+.list li{
+   display: inline;
+   padding: 1rem;
+   font-size: 1.2rem;
+   
+   
+}
+
+.link{
+   text-decoration: none;
+   color: white;
+}
+
+.link:hover{
+   color: rgb(162, 162, 194);
+}

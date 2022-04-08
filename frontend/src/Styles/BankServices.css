@@ -1,0 +1,43 @@
+.bank{
+    margin: 2rem 3rem;
+}
+
+.bank h1{
+    margin-bottom: 2rem;
+}
+
+.bank-body{
+    cursor: pointer;
+}
+
+.add-bank-btn{
+    
+    padding: 0.4rem 2rem;
+    margin-top: 1.5rem;
+    float: right;
+    margin-right: 6rem;
+    background-color: rgb(162, 162, 194);
+}
+
+.bank-content{
+    display: flex;
+   
+}
+
+.bank-content h4, button{
+    margin: 0.5rem 2rem;
+    font-weight: 550;
+}
+
+.bank-btn button{
+    padding: 0.4rem 2rem;
+    background-color: rgb(162, 162, 194);
+    cursor: pointer;
+    font-weight: 550;
+}
+
+
+.bank-name{
+    width: 60%;
+}
+
